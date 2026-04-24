@@ -1,0 +1,102 @@
+[
+  {
+    "question": "Which of the following is NOT a component of Baddeley’s working memory model?",
+    "options": [
+      "The phonological loop",
+      "The icon",
+      "The central executive",
+      "The visuospatial sketchpad"
+    ],
+    "answer": "The icon"
+  },
+  {
+    "question": "Sternberg’s classic work on searching for information from short-term memory indicated that the search process is:",
+    "options": [
+      "Serial",
+      "Self-terminating",
+      "Parallel",
+      "Both serial and exhaustive"
+    ],
+    "answer": "Both serial and exhaustive"
+  },
+  {
+    "question": "In the absence of rehearsal, short-term memory tends to:",
+    "options": [
+      "Last about 20 seconds",
+      "Last about 8 seconds",
+      "Decay slowly over 24 hours",
+      "Decay slowly over a week"
+    ],
+    "answer": "Last about 20 seconds"
+  },
+  {
+    "question": "The suffix effect relates to which type of memory?",
+    "options": [
+      "Iconic",
+      "Echoic",
+      "Short term",
+      "Working"
+    ],
+    "answer": "Echoic"
+  },
+  {
+    "question": "Unattended information is stored briefly in:",
+    "options": [
+      "Sensory memory",
+      "Short term memory",
+      "Long term memory",
+      "Working memory"
+    ],
+    "answer": "Sensory memory"
+  },
+  {
+    "question": "Retrieval involves:",
+    "options": [
+      "The activation of the senses",
+      "The translation of information into a form that can be stored",
+      "The storage of information over time",
+      "The calling to mind of previously stored information"
+    ],
+    "answer": "The calling to mind of previously stored information"
+  },
+  {
+    "question": "The primacy and recency effects in memory:",
+    "options": [
+      "Are thought to be due to the action of short-term memory",
+      "Are thought to be due to the action of long-term memory",
+      "Are thought to be due to the action of sensory memory",
+      "Can be independently manipulated, indicating at least two types of memory at work"
+    ],
+    "answer": "Can be independently manipulated, indicating at least two types of memory at work"
+  },
+  {
+    "question": "Information in short-term memory is assumed to be coded primarily by:",
+    "options": [
+      "Sound",
+      "Meaning",
+      "Visual appearance",
+      "Both sound and meaning"
+    ],
+    "answer": "Sound"
+  },
+  {
+    "question": "Repeating a phone number to yourself to hold it in memory while you dial it would use which component of working memory?",
+    "options": [
+      "The visuospatial sketchpad",
+      "The phonological loop",
+      "The episodic buffer",
+      "Both the visuospatial sketchpad and the phonological loop"
+    ],
+    "answer": "The phonological loop"
+  },
+  {
+    "question": "Disrupting the process of long-term potentiation leads to:",
+    "options": [
+      "Disruption of learning and remembering",
+      "Recovery from anterograde amnesia",
+      "Recovery from retrograde amnesia",
+      "Language deficits"
+    ],
+    "answer": "Disruption of learning and remembering"
+  }
+]

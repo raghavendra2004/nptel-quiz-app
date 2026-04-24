@@ -1,0 +1,102 @@
+[
+  {
+    "question": "_____ is defined as 'going beyond the information given.'",
+    "options": [
+      "Problem solving",
+      "Thinking",
+      "Decision making",
+      "Remembering"
+    ],
+    "answer": "Thinking"
+  },
+  {
+    "question": "Which of the following is an example of an ill-defined problem?",
+    "options": [
+      "Putting together your schedule of classes for next semester",
+      "Constructing a proof in geometry",
+      "Solving an algebra problem",
+      "Solving the Tower of Hanoi problem"
+    ],
+    "answer": "Putting together your schedule of classes for next semester"
+  },
+  {
+    "question": "The problem-solving technique of ______ involves comparing the goal with the starting point and reducing the difference.",
+    "options": [
+      "Generate and test",
+      "Means end analysis",
+      "Reasoning by analogy",
+      "Mental set"
+    ],
+    "answer": "Means end analysis"
+  },
+  {
+    "question": "Mental set:",
+    "options": [
+      "Can only be induced by large amount of practice",
+      "Can lead us to make unwarranted assumption about a problem",
+      "Involves the use of analogy to solve a problem",
+      "Aids problem solving because it supplies an efficient problem representation"
+    ],
+    "answer": "Can lead us to make unwarranted assumption about a problem"
+  },
+  {
+    "question": "When one recalls the solution to an old problem and uses it to solve a new, similarly structured problem, one has reasoned by:",
+    "options": [
+      "Introspection",
+      "Analysis",
+      "Analogy",
+      "Backtracking"
+    ],
+    "answer": "Analogy"
+  },
+  {
+    "question": "______ is a very important technique for solving the Towers of Hanoi problem.",
+    "options": [
+      "Means-end analysis",
+      "Generate-and-test",
+      "Working backward",
+      "Trial and error"
+    ],
+    "answer": "Working backward"
+  },
+  {
+    "question": "Which of the following is the best example of a well-defined problem?",
+    "options": [
+      "Creating a guest list for a party",
+      "Finding a detour around a traffic problem",
+      "Constructing a proof in algebra",
+      "Writing a paper for your cognition class"
+    ],
+    "answer": "Constructing a proof in algebra"
+  },
+  {
+    "question": "Psychologists focus on well-defined problems because:",
+    "options": [
+      "They are easy to present",
+      "They often take weeks or months to solve",
+      "They can be complicated to score",
+      "They accurately mirror real world problems"
+    ],
+    "answer": "They are easy to present"
+  },
+  {
+    "question": "Adoption of a rigid mental set toward an object is called:",
+    "options": [
+      "Well-defined thinking",
+      "Ill-defined thinking",
+      "Functional fixedness",
+      "Object set"
+    ],
+    "answer": "Functional fixedness"
+  },
+  {
+    "question": "The General Problem Solver (GPS) is a computer program that solves problems using:",
+    "options": [
+      "Means end analysis",
+      "Generate-and-test",
+      "Reasoning by analogy",
+      "Introspection"
+    ],
+    "answer": "Means end analysis"
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "question": "Deductive reasoning involves which of the following?",
+    "options": [
+      "Going from general to specific statements",
+      "Conclusions that add new information to what is given",
+      "Going from specific to general statements",
+      "Going from specific to specific statements"
+    ],
+    "answer": "Going from general to specific statements"
+  },
+  {
+    "question": "If a person has five letters in his or her name, then s/he is a Glirple. I can now validly assume that:",
+    "options": [
+      "Shawn is a Glirple",
+      "Shawn is a Glirple, and anyone who is not a Glirple cannot be named Susan",
+      "Anyone who is a Glirple must have five letters in his/her name",
+      "Anyone who is not a Glirple cannot be named Susan"
+    ],
+    "answer": "Shawn is a Glirple, and anyone who is not a Glirple cannot be named Susan"
+  },
+  {
+    "question": "When we assess probability by judging the ease with which relevant examples come to mind, we are using the heuristic of:",
+    "options": [
+      "Representativeness",
+      "Availability",
+      "Framing",
+      "Hindsight"
+    ],
+    "answer": "Availability"
+  },
+  {
+    "question": "Which type of reasoning results in conclusions that contain new information?",
+    "options": [
+      "Inductive reasoning",
+      "Deductive reasoning",
+      "Invalid reasoning",
+      "Both inductive and deductive reasoning"
+    ],
+    "answer": "Inductive reasoning"
+  },
+  {
+    "question": "If performed correctly, deductive reasoning can be said to have ______. This means that it is impossible for the premises to be true and the conclusion to be false.",
+    "options": [
+      "Inductive strength",
+      "Deductive strength",
+      "Inductive validity",
+      "Deductive validity"
+    ],
+    "answer": "Deductive validity"
+  },
+  {
+    "question": "If a person has five letters in his/her name, then s/he is a Glirple. Angie now reasons that Fred cannot possibly be a Glirple. Angie has:",
+    "options": [
+      "Made a correct inference to modus ponens",
+      "Made a correct inference to modus tollens",
+      "Committed the fallacy of denying the antecedent",
+      "Committed the fallacy of affirming the consequent"
+    ],
+    "answer": "Committed the fallacy of denying the antecedent"
+  },
+  {
+    "question": "When Wason’s four-card task is replaced with an everyday problem about checking identification of people drinking Coke and beer:",
+    "options": [
+      "People still neglect modus tollens in their responses",
+      "People turn over all four cards instead of two",
+      "People turn over only one card",
+      "About 75% participants solve the problem correctly"
+    ],
+    "answer": "About 75% participants solve the problem correctly"
+  },
+  {
+    "question": "Some members of the Jones family are tall. Some tall people play basketball. Which of the following is true?",
+    "options": [
+      "Logically, some members of the Jones family play basketball",
+      "Logically, no members of the Jones family play basketball",
+      "Most people assume that some members of the Jones family play basketball",
+      "Most people assume that all members of the Jones family play basketball"
+    ],
+    "answer": "Most people assume that some members of the Jones family play basketball"
+  },
+  {
+    "question": "The ease of reasoning about an analogy depends on all of these factors EXCEPT:",
+    "options": [
+      "The difficulty of comprehending the individual terms in the analogy",
+      "The reasoner’s knowledge about the individual terms",
+      "The difficulty of finding a relationship between the first two terms",
+      "The reasoner’s amount of training in formal reasoning procedures"
+    ],
+    "answer": "The reasoner’s amount of training in formal reasoning procedures"
+  },
+  {
+    "question": "Which of the following is a difference between everyday reasoning and formal reasoning?",
+    "options": [
+      "In everyday reasoning, all premises are usually supplied",
+      "In everyday reasoning, there is typically one correct answer",
+      "In everyday reasoning, problems are solved as a means of achieving other goals",
+      "In formal reasoning, problems are not self-contained"
+    ],
+    "answer": "In everyday reasoning, problems are solved as a means of achieving other goals"
+  }
+]

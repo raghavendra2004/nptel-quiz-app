@@ -1,0 +1,102 @@
+[
+  {
+    "question": "According to the ______ view of concepts, people categorize new instances by comparing them to representations of previously stored instances.",
+    "options": [
+      "Classical",
+      "Prototype",
+      "Exemplar",
+      "Schema"
+    ],
+    "answer": "Exemplar"
+  },
+  {
+    "question": "According to the typicality effect, the statement 'A dog is a household pet' should be verified:",
+    "options": [
+      "Faster than 'a poodle is a household pet'",
+      "Faster than 'a dog is a living thing'",
+      "Faster than 'a ferret is a household pet'",
+      "Faster than 'a dog is an animal'"
+    ],
+    "answer": "Faster than 'a ferret is a household pet'"
+  },
+  {
+    "question": "Which of the following would be considered an example of a 'natural kind' concept?",
+    "options": [
+      "Blue",
+      "Wolf",
+      "Odd number",
+      "Mirror"
+    ],
+    "answer": "Wolf"
+  },
+  {
+    "question": "A schema for a routine event, such as going to the dentist, is called a:",
+    "options": [
+      "Concept",
+      "Script",
+      "Exemplar",
+      "Category"
+    ],
+    "answer": "Script"
+  },
+  {
+    "question": "A ________ is a mental representation of some object, event, or pattern.",
+    "options": [
+      "Category",
+      "Concept",
+      "Script",
+      "Memory"
+    ],
+    "answer": "Concept"
+  },
+  {
+    "question": "A ______ can be defined as a class of similar things that share either an essential core, or some similarity in perceptual, biological, or functional properties.",
+    "options": [
+      "Category",
+      "Concept",
+      "Script",
+      "Schema"
+    ],
+    "answer": "Category"
+  },
+  {
+    "question": "Which of the following is NOT TRUE of the classical view of concepts?",
+    "options": [
+      "It proposes that concepts are mentally represented by list of features.",
+      "It assumes that membership in a category is clear-cut.",
+      "It accurately predicts the typicality effect.",
+      "'Necessity' and 'sufficient' features play an important role in the theory."
+    ],
+    "answer": "It accurately predicts the typicality effect."
+  },
+  {
+    "question": "Which of the following is a good example of a basic level of categorization?",
+    "options": [
+      "Musical instrument",
+      "Piano",
+      "Electronic keyboard",
+      "String instrument"
+    ],
+    "answer": "Piano"
+  },
+  {
+    "question": "If 'soda' is a basic-level category, then ______ would be a subordinate level.",
+    "options": [
+      "Soft drink",
+      "Beverage",
+      "Drink",
+      "Coca-Cola"
+    ],
+    "answer": "Coca-Cola"
+  },
+  {
+    "question": "The ______ view of concepts argues that a person uses his/her theories about the way the world works to justify classification.",
+    "options": [
+      "Classical",
+      "Prototype",
+      "Knowledge based",
+      "Schema"
+    ],
+    "answer": "Knowledge based"
+  }
+]

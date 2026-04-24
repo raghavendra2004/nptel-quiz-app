@@ -1,0 +1,102 @@
+[
+  {
+    "question": "As classically conceived, long-term memory is held to have all of the following properties EXCEPT:",
+    "options": [
+      "It comprises a permanent or at least semipermanent store",
+      "It has virtually unlimited capacity",
+      "It primarily uses acoustic coding",
+      "Information stored within it is not always easily accessible"
+    ],
+    "answer": "It primarily uses acoustic coding"
+  },
+  {
+    "question": "Psychologists believe that the capacity of long-term memory is:",
+    "options": [
+      "unlimited",
+      "7 + 2 items",
+      "18 items",
+      "5000 items"
+    ],
+    "answer": "unlimited"
+  },
+  {
+    "question": "Which of the following are most likely to be confused in long-term memory?",
+    "options": [
+      "The letters P and R",
+      "The letters C and B",
+      "The words \"see\" and \"bee\"",
+      "The words \"big\" and \"large\""
+    ],
+    "answer": "The words \"big\" and \"large\""
+  },
+  {
+    "question": "The code in long-term memory is based on:",
+    "options": [
+      "Sound",
+      "Visual imagery",
+      "Meaning",
+      "Both sound and visual imagery"
+    ],
+    "answer": "Meaning"
+  },
+  {
+    "question": "Your memory for how to ride a bicycle is an example of ______ memory.",
+    "options": [
+      "Explicit",
+      "Implicit",
+      "Declarative",
+      "Procedural"
+    ],
+    "answer": "Procedural"
+  },
+  {
+    "question": "A retrieval cue will be most effective when it is highly distinctive or unusual, according to the principle of:",
+    "options": [
+      "Cue overload",
+      "Encoding specificity",
+      "Mood dependence",
+      "State dependence"
+    ],
+    "answer": "Cue overload"
+  },
+  {
+    "question": "Context effects and state-dependent learning effects occur:",
+    "options": [
+      "For recall tests only",
+      "For recognition tests only",
+      "For both recall and recognition",
+      "For paired associate tests only"
+    ],
+    "answer": "For recall tests only"
+  },
+  {
+    "question": "Bahrick’s study of retention of Spanish vocabulary words showed that large portions of information remained in long-term memory for:",
+    "options": [
+      "Several months",
+      "1-2 years",
+      "Up to 5 years",
+      "Over 50 years"
+    ],
+    "answer": "Over 50 years"
+  },
+  {
+    "question": "Techniques designed to improve memory, often involving the use of visual imagery, are called:",
+    "options": [
+      "Mnemonics",
+      "Eidetic",
+      "Iconic",
+      "IQ enhancers"
+    ],
+    "answer": "Mnemonics"
+  },
+  {
+    "question": "Your memory of your first college lecture would be an example of:",
+    "options": [
+      "Semantic memory",
+      "Episodic memory",
+      "Implicit memory",
+      "Working memory"
+    ],
+    "answer": "Episodic memory"
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "question": "According to Attenuation theory of Treisman, people tend to process:",
+    "options": [
+      "Only to the level of physical characteristics",
+      "Only to the level of linguistic characteristics, separating it into words",
+      "At a semantic level, analysing for meaning most of the time",
+      "Only as much as is necessary to separate the attended from the unattended message"
+    ],
+    "answer": "Only as much as is necessary to separate the attended from the unattended message"
+  },
+  {
+    "question": "The 'cocktail party effect' refers to the fact that shadowing performance is disrupted when _______ is embedded in the unattended message.",
+    "options": [
+      "Backward speech",
+      "The listener’s name",
+      "A section of repeated words",
+      "Music"
+    ],
+    "answer": "The listener’s name"
+  },
+  {
+    "question": "In Kahneman’s model of attention, allocation of mental resources is affected by preferences for certain kinds of tasks over others. These preferences are known as:",
+    "options": [
+      "Enduring dispositions",
+      "Arousal states",
+      "Late selected preferences",
+      "Momentary intentions"
+    ],
+    "answer": "Enduring dispositions"
+  },
+  {
+    "question": "The word 'cat' is ______ by the phrase 'The dog chased the….' That is, the word cat is especially ready to be recognized or attended to.",
+    "options": [
+      "filtered",
+      "attenuated",
+      "primed",
+      "suggested"
+    ],
+    "answer": "primed"
+  },
+  {
+    "question": "When listening to a conversation, your attention is momentarily diverted when you hear your name spoken in a different conversation across the room. This is an example of the:",
+    "options": [
+      "filter effect",
+      "dichotic listening phenomenon",
+      "cocktail party effect",
+      "attenuation effect"
+    ],
+    "answer": "cocktail party effect"
+  },
+  {
+    "question": "Which of the following would NOT be a reasonable basis for filtering, according to Broadbent’s model?",
+    "options": [
+      "Whether the message was coming from your right or your left side",
+      "The pitch of the voice reading the message",
+      "The loudness of the voice reading the message",
+      "The language that the message was being read in"
+    ],
+    "answer": "The language that the message was being read in"
+  },
+  {
+    "question": "Cognitive psychologists use all of the following as criteria for determining whether an activity is automatic EXCEPT:",
+    "options": [
+      "Whether it occurs intentionally",
+      "Whether it gives rise to conscious awareness",
+      "Whether it interferes with other activities",
+      "Whether it requires mental filtering"
+    ],
+    "answer": "Whether it requires mental filtering"
+  },
+  {
+    "question": "Certain stimuli seem to jump off the page at the viewer, causing an involuntary shift of attention that is referred to as:",
+    "options": [
+      "The Stroop effect",
+      "Attentional capture",
+      "Attenuation",
+      "The cocktail party effect"
+    ],
+    "answer": "Attentional capture"
+  },
+  {
+    "question": "Stroop interference lessens when:",
+    "options": [
+      "Participants are better readers",
+      "Participants are given more practice at naming colours",
+      "Participants are girls rather than boys",
+      "Participants are encouraged to focus carefully"
+    ],
+    "answer": "Participants are given more practice at naming colours"
+  },
+  {
+    "question": "Research on divided attention suggests that:",
+    "options": [
+      "Some people can multitask without any drop in performance",
+      "There are no limits on the number of things that we can successfully do at once",
+      "As individual tasks become more demanding, multitasking becomes more efficient",
+      "If you think that you are doing two things simultaneously, you are probably really switching attention back and forth between the two"
+    ],
+    "answer": "If you think that you are doing two things simultaneously, you are probably really switching attention back and forth between the two"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "question": "If you want to learn about cause and effect, you must use the experimental method",
+    "options": ["True", "False"],
+    "answer": "True"
+  },
+  {
+    "question": "It is easier to recognize the letter 'X' within the word 'TEXT' than the letter 'X' presented on its own",
+    "options": ["True", "False"],
+    "answer": "False"
+  },
+  {
+    "question": "Suppose you look at a vehicle and end up just remembering '_nda' from the manufacturer’s name. You then come up with Honda as the manufacturer’s name. You have used",
+    "options": [
+      "bottom up processing",
+      "top down processing",
+      "primacy effect",
+      "recency effect"
+    ],
+    "answer": "top down processing"
+  },
+  {
+    "question": "Eye witness testimony are mostly flawed. A optimal method for improving the accuracy of such testimony is",
+    "options": [
+      "police interview",
+      "hypnosis",
+      "cognitive interview",
+      "cued recall"
+    ],
+    "answer": "cognitive interview"
+  },
+  {
+    "question": "Ramu is given directions to village temple. After some time he remembers only the first couple of instructions. This phenomena illustrates",
+    "options": [
+      "primacy effect",
+      "recency effect",
+      "forgetting",
+      "availability"
+    ],
+    "answer": "primacy effect"
+  },
+  {
+    "question": "The belief that most of our abilities and tendencies are with us from birth is known as",
+    "options": [
+      "nativism",
+      "empiricism",
+      "associationism",
+      "introspection"
+    ],
+    "answer": "nativism"
+  },
+  {
+    "question": "Noam Chomsky revolutionized the field of ________ and showed how behaviorism could not adequately explain language",
+    "options": [
+      "neuroscience",
+      "computer science",
+      "human factors",
+      "linguistics"
+    ],
+    "answer": "linguistics"
+  },
+  {
+    "question": "That guest star on your favorite television show looks familiar. You're sure that you've seen him before, but you can't think of his name. The fact that you know you have seen the face before is",
+    "options": [
+      "perception",
+      "attention",
+      "recognition",
+      "recall"
+    ],
+    "answer": "recognition"
+  },
+  {
+    "question": "The belief that psychological phenomena cannot be reduced to simple elements but must be studied in their entirety is central to the school known as",
+    "options": [
+      "Structuralism",
+      "Gestalt psychology",
+      "Functionalism",
+      "Behaviorism"
+    ],
+    "answer": "Gestalt psychology"
+  },
+  {
+    "question": "A body of knowledge structured according to what its proponents consider important, which guides research topics and research methods, is called a",
+    "options": [
+      "paradigm",
+      "hypothesis",
+      "methodology",
+      "metaphor"
+    ],
+    "answer": "paradigm"
+  }
+]

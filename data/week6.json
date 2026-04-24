@@ -1,0 +1,102 @@
+[
+  {
+    "question": "According to the notion of cognitive economy, a characteristic like 'has wings' would be stored along with which of the following semantic memory nodes?",
+    "options": [
+      "Bird",
+      "Ostrich",
+      "Hummingbird",
+      "All of the above"
+    ],
+    "answer": "Bird"
+  },
+  {
+    "question": "Priming in lexical decision tasks may be explained by the idea of:",
+    "options": [
+      "Episodic memory",
+      "Encoding specificity",
+      "Spreading activation",
+      "Typicality effects"
+    ],
+    "answer": "Spreading activation"
+  },
+  {
+    "question": "Which of the following is a good example of a superordinate level of categorization?",
+    "options": [
+      "Fruit",
+      "Banana",
+      "Fuji apple",
+      "Golden delicious apple"
+    ],
+    "answer": "Fruit"
+  },
+  {
+    "question": "The schema view of concept formation assumes that:",
+    "options": [
+      "There are clear boundaries among individual schemata",
+      "There is cognitive economy among concepts",
+      "Information is abstracted across instances",
+      "No information is stored about actual instances"
+    ],
+    "answer": "Information is abstracted across instances"
+  },
+  {
+    "question": "According to research by Collins and Quillian, the statement 'Siamese cats have blue eyes' will be verified:",
+    "options": [
+      "Slower than 'Siamese cats give birth to live young'",
+      "Faster than 'Siamese cats give birth to live young'",
+      "In the same amount of time as 'Siamese cats give birth to live young'",
+      "Slower than 'Siamese cats have tails'"
+    ],
+    "answer": "Faster than 'Siamese cats give birth to live young'"
+  },
+  {
+    "question": "Conrad has found evidence that the statement 'A shark can move' can be verified in the same amount of time as 'An animal can move.' These results suggest that reaction time is best predicted by:",
+    "options": [
+      "Cognitive economy",
+      "Frequency of associations",
+      "Encoding specificity",
+      "Episodic memory"
+    ],
+    "answer": "Frequency of associations"
+  },
+  {
+    "question": "Which of the following would be a part of your declarative memory system?",
+    "options": [
+      "Knowing how to ride a bicycle",
+      "Knowing how to drive a car",
+      "Knowing how to react a red light",
+      "Being able to name a hybrid car"
+    ],
+    "answer": "Being able to name a hybrid car"
+  },
+  {
+    "question": "Collins and Loftus’s spreading activation theory differs from the hierarchical network theory in that:",
+    "options": [
+      "It dispenses with the idea of cognitive economy",
+      "It relies on the assumption of hierarchical structure",
+      "It cannot account for the typicality effect",
+      "It makes stronger predictions than hierarchical models"
+    ],
+    "answer": "It dispenses with the idea of cognitive economy"
+  },
+  {
+    "question": "'Characteristic features' and 'family resemblance' are important aspects of the _________ view of concepts.",
+    "options": [
+      "Classical",
+      "Prototype",
+      "Exemplar",
+      "Schema"
+    ],
+    "answer": "Prototype"
+  },
+  {
+    "question": "Studies of semantic memory have shown that in a lexical decision task, people are faster at responding to the stimulus 'bread' if it is paired with a stimulus such as:",
+    "options": [
+      "rencle",
+      "dog",
+      "island",
+      "butter"
+    ],
+    "answer": "butter"
+  }
+]

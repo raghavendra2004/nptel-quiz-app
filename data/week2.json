@@ -1,0 +1,102 @@
+[
+  {
+    "question": "A toy on the table represents",
+    "options": [
+      "Distal stimulus",
+      "Proximal stimulus",
+      "Retinal image",
+      "Percept"
+    ],
+    "answer": "Distal stimulus"
+  },
+  {
+    "question": "A patient with prosopagnosia has difficulty recognizing:",
+    "options": [
+      "Drawing of objects",
+      "Moving objects",
+      "Faces",
+      "Sounds"
+    ],
+    "answer": "Faces"
+  },
+  {
+    "question": "When you let go of a balloon and it floats away, the retinal image becomes smaller but you do not perceive it as shrinking. This is an example of:",
+    "options": [
+      "Pattern recognition",
+      "Bottom-up processing",
+      "Size constancy",
+      "Figure-ground organization"
+    ],
+    "answer": "Size constancy"
+  },
+  {
+    "question": "The meaningful interpretation of a proximal stimulus is called:",
+    "options": [
+      "Percept",
+      "Sensation",
+      "Distal stimulus",
+      "Retinal image"
+    ],
+    "answer": "Percept"
+  },
+  {
+    "question": "The two best studied forms of perception are:",
+    "options": [
+      "Visual and Haptic",
+      "Visual and Olfactory",
+      "Visual and Auditory",
+      "Auditory and Olfactory"
+    ],
+    "answer": "Visual and Auditory"
+  },
+  {
+    "question": "Which of the following represents a good example of a proximal stimulus?",
+    "options": [
+      "A book on a shelf",
+      "A tree in your yard",
+      "A building on the horizon",
+      "The retinal image formed by a tree"
+    ],
+    "answer": "The retinal image formed by a tree"
+  },
+  {
+    "question": "According to Gibson’s theory, the acts or behaviors permitted by objects, places, and events are called:",
+    "options": [
+      "Consequences",
+      "Functions",
+      "Affordances",
+      "Direct processes"
+    ],
+    "answer": "Affordances"
+  },
+  {
+    "question": "A stencil provides a good analogy for the theory of:",
+    "options": [
+      "Prototype matching",
+      "Template matching",
+      "Good continuation",
+      "Featural analysis"
+    ],
+    "answer": "Template matching"
+  },
+  {
+    "question": "___________ are to visual perception what phonemes are to language, according to Biederman.",
+    "options": [
+      "Receptors",
+      "Retinas",
+      "Distal stimuli",
+      "Geons"
+    ],
+    "answer": "Geons"
+  },
+  {
+    "question": "The principle governing reversible figures is:",
+    "options": [
+      "Figure-ground organization",
+      "Size constancy",
+      "Dimensionality",
+      "Retinal imagery"
+    ],
+    "answer": "Figure-ground organization"
+  }
+]

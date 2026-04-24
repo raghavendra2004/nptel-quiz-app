@@ -1,0 +1,102 @@
+[
+  {
+    "question": "Which of the following is/are generally agreed upon as necessary criteria for claiming that a communication system is a language?",
+    "options": [
+      "Regularity",
+      "Productivity",
+      "Referentiality",
+      "Both regularity and productivity"
+    ],
+    "answer": "Both regularity and productivity"
+  },
+  {
+    "question": "Infinite combinations of ideas can be expressed in language. In other words, language is:",
+    "options": [
+      "Regular",
+      "Interpersonal",
+      "Productive",
+      "Referential"
+    ],
+    "answer": "Productive"
+  },
+  {
+    "question": "A fundamental problem of speech perception, according to Miller, is that:",
+    "options": [
+      "Speech is discrete rather than continuous",
+      "A single phoneme sounds different depending on its context",
+      "Hearing is less accurate than vision",
+      "Missing phonemes can render words incomprehensible"
+    ],
+    "answer": "A single phoneme sounds different depending on its context"
+  },
+  {
+    "question": "The branch of linguistics devoted to the study of meaning:",
+    "options": [
+      "Phonetics",
+      "Semantics",
+      "Morphology",
+      "Pragmatics"
+    ],
+    "answer": "Semantics"
+  },
+  {
+    "question": "Did she say 'many' or 'men knee'? This type of ambiguity is referred to as:",
+    "options": [
+      "Phonetic",
+      "Lexical",
+      "Syntactic",
+      "Semantic"
+    ],
+    "answer": "Phonetic"
+  },
+  {
+    "question": "The underlying knowledge that allows people to produce and comprehend their language is called:",
+    "options": [
+      "Linguistic performance",
+      "Linguistic competence",
+      "Linguistic production",
+      "Grammatical behaviour"
+    ],
+    "answer": "Linguistic competence"
+  },
+  {
+    "question": "The study of the ways in which sounds can be combined in any given language is called:",
+    "options": [
+      "Phonology",
+      "Morphology",
+      "Syntax",
+      "Grammar"
+    ],
+    "answer": "Phonology"
+  },
+  {
+    "question": "We notice ambiguities in sentences:",
+    "options": [
+      "All the time",
+      "In 'garden path' sentences",
+      "When they are humorous",
+      "When they make no sense at all"
+    ],
+    "answer": "In 'garden path' sentences"
+  },
+  {
+    "question": "According to research, which of the following sets of sentences would take the longest amount of time to read and comprehend?",
+    "options": [
+      "We took the dog to the vet. The dog was nervous.",
+      "Sara drove the car to the market. The car ran out of gas.",
+      "She wrapped the Christmas presents. The sweater needed a larger box.",
+      "We got some beer out of the car. The beer was warm."
+    ],
+    "answer": "She wrapped the Christmas presents. The sweater needed a larger box."
+  },
+  {
+    "question": "Speech acts in which the utterance itself is the action—such as 'You're fired!'—are considered to be which type of speech act?",
+    "options": [
+      "Declaration",
+      "Directive",
+      "Commissive",
+      "Expressive"
+    ],
+    "answer": "Declaration"
+  }
+]

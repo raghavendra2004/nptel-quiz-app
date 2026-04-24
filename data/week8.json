@@ -1,0 +1,102 @@
+[
+  {
+    "question": "Participants doing mental imagery tasks tend to show brain activity in the:",
+    "options": [
+      "Temporal lobe",
+      "Parietal lobe",
+      "Frontal lobe",
+      "Occipital lobe"
+    ],
+    "answer": "Occipital lobe"
+  },
+  {
+    "question": "How do people represent and navigate in and through space? This is a question of:",
+    "options": [
+      "Navigational cognition",
+      "Representational cognition",
+      "Spatial cognition",
+      "Visual cognition"
+    ],
+    "answer": "Spatial cognition"
+  },
+  {
+    "question": "Images can prime the visual pathway, making it easier to detect a faint stimulus. This is an example of:",
+    "options": [
+      "Perceptual equivalence",
+      "Spatial equivalence",
+      "Structural equivalence",
+      "Transformational equivalence"
+    ],
+    "answer": "Perceptual equivalence"
+  },
+  {
+    "question": "Which of the following questions would take you the LONGEST TIME to answer?",
+    "options": [
+      "Which is faster, a turtle or a sports car?",
+      "Which is faster, a turtle or a cheetah?",
+      "Which is faster, a turtle or a caterpillar?",
+      "Which is faster, a caterpillar or a cat?"
+    ],
+    "answer": "Which is faster, a turtle or a caterpillar?"
+  },
+  {
+    "question": "The relational-organizational hypothesis is supported by:",
+    "options": [
+      "The effectiveness of the method of loci",
+      "The fact that concrete words are recalled better than abstract words",
+      "The fact that non-interactive images do not facilitate recall whereas interactive images do facilitate recall",
+      "The effectiveness of the pegword method"
+    ],
+    "answer": "The fact that non-interactive images do not facilitate recall whereas interactive images do facilitate recall"
+  },
+  {
+    "question": "Paivio’s ____ hypothesis argues that long-term memory contains two separate systems that represent information in verbal and visual forms, respectively.",
+    "options": [
+      "Picture-word",
+      "Dual code",
+      "Visuo-verbal",
+      "Relational-Organizational"
+    ],
+    "answer": "Dual code"
+  },
+  {
+    "question": "Which of the following methods would most help you to remember the word pair 'elephant-cigar'?",
+    "options": [
+      "Repeating the word elephant over and over while visualizing a cigar",
+      "Visualizing an elephant smoking a cigar",
+      "Repeating both words over and over to yourself",
+      "Visualizing an elephant and a cigar, not touching each other"
+    ],
+    "answer": "Visualizing an elephant smoking a cigar"
+  },
+  {
+    "question": "Your mental map of your campus is probably:",
+    "options": [
+      "Larger than reality",
+      "Smaller than reality",
+      "More regular, with more straight lines and right angles, than reality",
+      "Less regular, with fewer straight lines and right angles, than reality"
+    ],
+    "answer": "More regular, with more straight lines and right angles, than reality"
+  },
+  {
+    "question": "Finke’s principle of _____ states that mental imagery allows us to retrieve information that was not intentionally stored.",
+    "options": [
+      "Perceptual equivalence",
+      "Transformational equivalence",
+      "Implicit encoding",
+      "Structural encoding"
+    ],
+    "answer": "Implicit encoding"
+  },
+  {
+    "question": "A propositional representation is thought to be ______ in nature.",
+    "options": [
+      "Verbal",
+      "Visual",
+      "Both verbal and visual",
+      "Neither verbal nor visual"
+    ],
+    "answer": "Neither verbal nor visual"
+  }
+]

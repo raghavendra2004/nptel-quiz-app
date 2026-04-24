@@ -1,0 +1,102 @@
+[
+  {
+    "question": "The gambler’s fallacy is thought of as a special instance of:",
+    "options": [
+      "framing",
+      "availability",
+      "belief in the law of small numbers",
+      "hindsight"
+    ],
+    "answer": "belief in the law of small numbers"
+  },
+  {
+    "question": "You continue working on a difficult problem because you already invested time and effort. This is an example of:",
+    "options": [
+      "the sunk cost effect",
+      "a framing effect",
+      "the anchor effect",
+      "availability bias"
+    ],
+    "answer": "the sunk cost effect"
+  },
+  {
+    "question": "Normative models of decision making describe:",
+    "options": [
+      "how we ought to make decisions in realistic circumstances",
+      "ideal performance under ideal circumstances",
+      "what people actually do when they make decisions",
+      "cognitive illusions"
+    ],
+    "answer": "ideal performance under ideal circumstances"
+  },
+  {
+    "question": "Past events seem 'inevitable' due to the action of:",
+    "options": [
+      "framing effect",
+      "hindsight bias",
+      "gambler’s fallacy",
+      "availability heuristic"
+    ],
+    "answer": "hindsight bias"
+  },
+  {
+    "question": "Judging probability based on similarity to a stereotype is an example of:",
+    "options": [
+      "representativeness",
+      "availability",
+      "framing",
+      "the law of small numbers"
+    ],
+    "answer": "representativeness"
+  },
+  {
+    "question": "The mental activities that take place in choosing among alternatives are called:",
+    "options": [
+      "problem solving",
+      "inductive reasoning",
+      "deductive reasoning",
+      "decision making"
+    ],
+    "answer": "decision making"
+  },
+  {
+    "question": "The tendency to seek information that supports our existing beliefs is called:",
+    "options": [
+      "believability effect",
+      "content effect",
+      "confirmation bias",
+      "syllogistic reasoning"
+    ],
+    "answer": "confirmation bias"
+  },
+  {
+    "question": "Which of the following is NOT one of the five phases of decision making according to Galotti?",
+    "options": [
+      "Goal setting",
+      "Information gathering",
+      "Planning",
+      "Random choice"
+    ],
+    "answer": "Random choice"
+  },
+  {
+    "question": "Human decision making often falls short of optimality because:",
+    "options": [
+      "There is not enough information available",
+      "One cannot be rational under uncertainty",
+      "Information overwhelms cognitive processes",
+      "Rationality requires higher intelligence"
+    ],
+    "answer": "Information overwhelms cognitive processes"
+  },
+  {
+    "question": "The phase of decision making involving organizing information is called:",
+    "options": [
+      "Goal setting",
+      "Planning",
+      "Structuring the decision",
+      "Evaluating"
+    ],
+    "answer": "Structuring the decision"
+  }
+]
